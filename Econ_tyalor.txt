@@ -1,0 +1,272 @@
+In February 2017, the New England Patriots defeated the Atlanta Falcons in Super Bowl LI, widely considered to be one of the best, if not the best, game played between the last two teams left standing in the National Football League (NFL). On the field, records were smashed?the NFL counted at least 30 new records were set in a game that featured a thrilling fourth quarter comeback win by the Patriots. Records were set off the field as well?advertising rates for a 30-second television commercial topped $5 million or about $150,000 per second of television time. This was almost a 50% increase from the per-minute cost of a television advertisement in 2010 and an unfathomable 130-fold increase from the first Super Bowl, which was played 50 years previously between the Green Bay Packers and the Kansas City Chiefs.?
+The estimated television audience for the Super Bowl was 111 million, down slightly from the record of 114 million from the Patriots previous Super Bowl appearance in 2015. However, only around 71,000 people were able to watch the 2017 Super Bowl in person at the home arena of the Houston Texans. How does one become the fortunate one in 1,500 to attend the Super Bowl in person? It turns out that the NFL does not sell Super Bowl tickets directly to the general public. You could be one of the lucky fans to win a lottery for 1,000 tickets held directly by the NFL. Or you could be a lucky season ticket holder for one of the two participating teams, which typically get about a third of the tickets between them. If you were a season ticket holder who won the lottery you then would have to decide between going to the Super Bowl or reselling the ticket for a staggeringly high price and join the tens of millions watching the game at home. If you were lucky enough to win the lottery you would be able to buy tickets at face values ranging from $1,000 to $3,000 from the NFL but you would soon find out that plenty of people would pay $5,000 to $10,000 for those tickets, quite a temptation for even the most devoted fan. On the other hand, if you were a devoted football fan who did not win the lottery, you would find yourself having to pay several thousand dollars for a Super Bowl ticket, either to an online ticket broker or to a seller on an online auction site.
+
+Source: U.S. Customs and Border Protection (160204-H-NI589-151) [Public domain], via Wikimedia Commons
+Why does a Super Bowl ticket cost so much? Why does it cost so much to buy a 30-second television commercial to be shown during the Super Bowl? Who decides what price to charge for a Super Bowl ticket? Why do the NFL and the participating teams use a lottery system to select fans who are then permitted to buy tickets at a much lower price than that charged by a street seller or by an online ticket broker? Who ends up going to the Super Bowl, and who ends up selling their ticket and watching the game and the commercials on television? The purpose of this chapter is to show how to find the answers to such questions using the supply and demand model.
+Recall from Chapter 2 ?Observing and Explaining the Economy? that a model is a simplified description of a more complex reality. The supply and demand model is what economists use to explain how prices are determined in a market. We can use this model to understand the market for Super Bowl tickets or Final Four tickets, as well as in a variety of?other settings. What causes the price of gasoline to fluctuate? What causes the price of computers to fall over time, even though the prices of most other goods seem to rise over time? Why do roses cost more on Valentine?s Day? Once you understand how the model works, you will find yourself using it over and over again to understand the markets that you come across in your everyday life.
+The supply and demand model consists of three elements: demand, describing the behavior of consumers in the market; supply, describing the behavior of firms in the market; and market equilibrium, connecting supply and demand and describing how consumers and firms interact in the market. Economists like to compare the supply and demand model to a pair of scissors. Demand is one blade of the scissors, and supply is the other. Either blade alone is incomplete and virtually useless; however, when the two blades of a pair of scissors are connected to form the scissors, they become an amazingly useful, yet simple, tool. So it is with the supply and demand model.
+
+PREVIOUS
+RESOURCES
+NEXT
+
+To an economist, the term demand?whether the demand for tickets or the demand for roses?has a very specific meaning. Demand is a relationship between two economic variables: (1) the price of a particular good and (2) the quantity of that good that consumers are willing to buy at that price during a specific time period, all other things being equal. For short, we call the first variable the price and the second variable the quantity demanded. The phrase all other things being equal, or ceteris paribus, is appended to the definition of demand because the quantity that consumers are willing to buy depends on many other things besides the price of the good; we want to hold these other things constant, or equal, while we examine the relationship between price and quantity demanded.
+Demand can be represented by a numerical table or by a graph. In either case, demand describes how much of a good consumers will purchase at each price. Consider the demand for bicycles in a particular country, as presented in Table 3.1. Of course, because of the many kinds of bicycles?mountain bikes, racing bikes, children?s bikes, and inexpensive one-speed bikes with cruiser brakes?you need to simplify and think about this table as describing demand for an average, or typical, bike.
+Observe that, as the price rises, the quantity demanded by consumers goes down. If the price goes up from $180 to $200 per bicycle, for example, the quantity demanded goes down from 11 million to 9 million bicycles. On the other hand, if the price goes down, the quantity demanded goes up. If the price falls from $180 to $160, for example, the quantity demanded rises from 11 million to 14 million bicycles.
+The relationship between price and quantity demanded in Table 3.1?is called a demand schedule. The relationship shows price and quantity demanded moving in opposite directions, and this is an example of the law of demand. The law of demand says that the higher the price, the lower the quantity demanded in the market; and the lower the price, the higher the quantity demanded in the market. In other words, the law of demand says that the price and the quantity demanded are negatively related, all other things being equal.
+The Demand Curve
+Figure 3.1?represents demand graphically. The price of the good appears on the vertical axis and the quantity demanded of the good appears on the horizontal axis. It shows the demand for bicycles given in?Table 3.1. Each of the nine rows in Table 3.1?corresponds to one of the nine points in Figure 3.1. For example, the point at the lower right part of the graph corresponds to the first row of the table, where the price is $140 and the quantity demanded is 18 million bicycles. The resulting curve showing all the combinations of price and quantity demanded is the demand curve. It slopes downward from left to right because the quantity demanded is negatively related to the price.
+Why does the demand curve slope downward? When economists draw a demand curve, they hold constant the price of other goods: running shoes, in-line skates, motor scooters, and so on. Consumers have scarce resources and need to choose between bicycles and other goods. If the price of bicycles falls, then bicycles become more attractive to people in comparison with these other goods?some consumers who previously found the price of bicycles too high may decide to buy a bicycle rather than buy other goods. Conversely, when the price of bicycles increases, then bicycles become less attractive to people in comparison with other goods?some consumers may decide to buy in-line skates or motor scooters instead of bicycles. As a result, quantity demanded declines when the price rises and vice versa.
+Plenty of real-world evidence indicates that demand curves are downward sloping. In 2016, the ride sharing firm Uber announced a cut in the per-mile travel charge in over a hundred cities that Uber had a presence in. News reports speculated that this price cut was aimed at putting pressure on their rival ride sharing firm Lyft. You might (correctly) speculate that this reduction in the price of ride sharing was intended to increase the number of potential customers switching from using Lyft vehicles to using Uber vehicles for their rides.
+Table 3.1 Demand Schedule for Bicycles (millions of bicycles per year)
+
+
+Price
+
+Quantity Demanded
+
+Price
+
+Quantity Demanded
+
+$140
+
+18
+
+$240
+
+5
+
+$160
+
+14
+
+$260
+
+3
+
+$180
+
+11
+
+$280
+
+2
+
+$200
+
+9
+
+$300
+
+1
+
+$220
+
+7Figure 3.1 The Demand Curve
+
+The demand curve shows that the price of a good and the quantity demanded by consumers are negatively related?the curve slopes down. For each price, the demand curve gives the quantity demanded, or the quantity that consumers are willing to buy at that price. The points along the demand curve for bicycles shown here are the same as the pairs of numbers in Table 3.1.
+Similarly, policies designed to reduce smoking by teenagers or to cut down on drinking on college campuses often aim to do this by raising the price of cigarettes and alcohol. The idea, of course, is that teens would buy fewer cigarettes and students would buy less alcohol if these goods were more expensive.?
+Shifts in Demand
+Price is not the only thing that affects the quantity of a good that people buy. Weather conditions, concerns about the environment, or the availability of bike lanes on roads can influence people?s decisions to purchase bicycles, for example. If climate change brought on an extended period of warm weather, people would have more opportunities?to ride their bicycles. As a result, more bicycles would be purchased at any given price. Or perhaps increased awareness of the health benefits of exercise might lead people to ride their bicycles to work rather than drive their cars. This also would lead to more purchases of bicycles at any given price. Alternatively, if bike lanes are taken away to allow for an extra lane of cars on the road, fewer bicycles would be purchased at any given price.
+The demand curve is drawn assuming that all other things are equal, except the price of the good. A change in any one of these other things, therefore, will shift the demand curve. An increase in demand shifts the demand curve to the right?at every price, quantity demanded will increase. A decrease in demand shifts the demand curve to the left?at every price, quantity demanded will decrease.
+An increase in demand is illustrated in Figure 3.2. The lightly shaded curve labeled ?old demand curve? is the same as the demand curve in Figure 3.1. An extended period of warm weather will increase demand and shift the demand curve to the right. The arrow shows how this curve has shifted to the right to the more darkly shaded curve labeled ?new demand curve.? When the demand curve shifts to the right, more bicycles are purchased than before at any given price. For example, before the shift in demand, a $200 price led to 9 million bicycles being purchased. But when the demand curve shifts to the right because of warmer weather, that same price leads to 13 million bicycles being purchased. On the other hand, if bicycle lanes were taken away from roads, then the demand curve would shift to the left because people?s purchases of bicycles would now be less at any given price.
+Figure 3.2 A Shift in the Demand Curve
+
+The demand curve shows how the quantity demanded of a good is related to the price of the good, all other things being equal. A change in one of these other things?the weather or people?s tastes, for example?will shift the demand curve, as shown in the graph. In this case, the demand for bicycles increases; the demand curve for bicycles shifts to the right.
+The demand curve may shift for many reasons. Most of these reasons can be attributed to one of several sources: consumers? preferences, consumers? information, consumers? incomes, the number of consumers in the market, consumers? expectations of future prices, and the price of related goods. Let us briefly consider each source of shifts in demand.
+Consumers? Preferences
+In general, a change in people?s tastes or preferences for a product compared with other products will change the amount of the product they purchase at any given price. On many college campuses, demand for clothing that is certified as not having been produced in ?sweatshops? has increased. Also, over the last couple of decades, consumers have shown a great deal of interest in buying ?organically grown? fruits and vegetables, which are produced without using artificial pesticides or fertilizers.
+Consumers? Information
+A change in information relating to a product can also cause the demand curve to shift. For example, when people learned about the dangers of smoking, the demand for cigarettes declined. Shortly after an outbreak of E. coli in parts of the United States was linked to contaminated spinach, demand for spinach at grocery stores decreased. In 2015, the Environmental Protection Agency ruled that the German car-manufacturing giant Volkswagen had intentionally programmed their diesel cars to make it seem like they were emitting less pollution than they actually were. This scandal eventually led to a $4 billion fine and a recall of over 11 million cars. The fallout from this episode would lead to a sharp fall in the demand for diesel-engine automobiles made by Volkswagen.
+Consumers? Incomes
+If people?s incomes change, then their purchases of goods usually change. An increase in income increases the demand for most goods, while a decline in income reduces the demand for these goods. Goods for which demand increases when income rises and decreases when income falls are called normal goods by economists. Many of the goods that people typically purchase?shoes, clothing, jewelry?fall into the category of normal goods.
+However, the demand for some goods may decline when income increases. Such goods are called inferior goods by economists. The demand for inferior goods declines when people?s income increases because they can afford more attractive goods. For example, instant noodles form the basis of many college students? diets. After these students leave college and start working and earning a salary, however, many will switch over to eating microwavable meals or to eating out in restaurants. Thus, the demand for instant noodles will fall as income rises. Another example of an inferior good that is familiar to many college students in Boston and New York is the cheap bus service that runs between the Chinatowns in the two cities; a bus ticket may cost as little as $10, whereas a plane ticket between the two cities may cost $150. As students graduate and start earning money, however, they often buy more of the $150 plane tickets and fewer of the $10 bus tickets. In this case, the plane ticket is categorized as a normal good, and the bus ticket is categorized as an inferior good.
+Number of Consumers in the Market
+Demand is a relationship between price and the quantity demanded by all consumers in the market. If the number of consumers increases, then demand will increase. If the number of consumers falls, then demand will decrease. For example, the number of teenagers in the U.S. population expanded sharply in the late 1990s. This increased the demand for Seventeen magazine, Rollerblades, Clearasil, and other goods that teenagers tend to buy. As the baby boom generation in the United States ages, the demand for health care, hair coloring kits, and luxury skin care products is increasing.
+Consumers? Expectations of Future Prices
+If people expect the price of a good to increase, they will want to buy it before the price increases. Conversely, if people expect the price of goods to decline, they will purchase fewer items and wait for the decline. One often sees this effect of expectations of future price changes. ?We?d better buy before the price goes up? is a common reason for purchasing items during a clearance sale. Or, ?Let?s put off buying that flat-screen television until the post-holiday sales.?
+In general, it is difficult to forecast the future, but consumers sometimes know quite a bit about whether the price of a good will rise or fall, and they react accordingly. Thus, demand increases if people expect the future price of the good to rise. And demand decreases if people expect the future price of the good to fall.
+In 2009, Congress created a program that aimed to provide incentives for U.S. consumers to buy new, more fuel-efficient cars by trading in their older, less fuel-efficient vehicles. This program, popularly known as ?Cash for Clunkers,? offered customers about a $4,000 discount for buying a new car. Many people moved up their planned car purchases to take advantage of the ?Cash for Clunkers? program. The program, which was planned to run for five months, exhausted all the available funds allocated to it, and $2 billion more in additional allocations, in less than two months.
+Prices of Closely Related Goods
+A change in the price of a closely related good can increase or decrease demand for another good, depending on whether the good is a substitute or a complement. A substitute is a good that provides some of the same uses or enjoyment as another good. Butter and margarine are substitutes. In general, the demand for a good will increase if the price of a substitute for the good rises, and the demand for a good will decrease if the price of a substitute falls. Sales of CDs and downloaded music are substitutes as are DVD/Blu-Ray movie sales and streaming services like Hulu and Netflix. In the most recent decade sales of music CDs have shown a sharp downward trend as the price of downloaded music and the price of music streaming services like Spotify has decreased.
+A complement is a good that tends to be consumed together with another good. Gasoline and sport utility vehicles (SUVs) are complements. The rapid increase in gasoline prices in 2007 and the early part of 2008 led to a decrease in demand for SUVs.
+Movements Along versus Shifts of the Demand Curve
+We have shown that the demand curve can shift, and we have given many possible reasons for such shifts. As you begin to use demand curves, it is important that you be able to distinguish shifts of the demand curve from movements along the demand curve. This distinction is illustrated in Figure 3.3.
+A movement along the demand curve occurs when the quantity demanded changes as a result of a change in the price of the good. For example, if the price of bicycles rises, causing the quantity demanded by consumers to fall, then there is a movement along the demand curve. You can see in Figure 3.3?that at point A, the price is $200 and the quantity demanded is 9 million. Now suppose the price rises to $220. The quantity demanded then falls from 9 million to 7 million. This can be shown as a movement along the demand curve for bicycles from point A to point B. Conversely, if the price of a bicycle falls to $180, then the quantity demanded will increase to 11 million bicycles.
+Figure 3.3 Shifts of versus Movements Along the Demand Curve
+
+A shift of the demand curve occurs when a change in something (other than the good?s own price) affects the quantity of a good that consumers are willing to buy. An increase in demand is a shift to the right of the demand curve. A decrease in demand is a shift to the left of the demand curve. A movement along the demand curve occurs when the price of the good changes, causing the quantity demanded to change, as, for example, from point A to point B or C.
+This can be shown as an increase from point A to point C in Figure 3.3. Economists refer to a movement along the demand curve as a change in the quantity demanded.
+A shift of the demand curve, on the other hand, occurs when a change is caused by any source except the price. Remember, the term demand refers to the entire curve or schedule relating price and quantity demanded, whereas the term quantity demanded refers to a single point on the demand curve. As we discussed, if warm weather increases, people would be more likely to buy bicycles at any given price. This means that the entire demand curve would shift to the right. On the other hand, if bicycle lanes are eliminated, people would be less likely to buy bicycles at any given price. The entire demand curve would shift to the left. Economists refer to a shift in the demand curve as a change in demand.
+You should be able to tell whether an economic event causes (1) a change in demand or (2) a change in the quantity demanded; or, equivalently, whether an event causes (1) a shift in the demand curve or (2) a movement along the demand curve. Use the following example to test your understanding of demand shifts and movement along the demand curve. Suppose that Disney?s theme park attendance was lower in a recession year than in previous years because of a weak economy. Because of the fall in attendance, suppose Disney lowered the adult admission price at its California Adventure park, which helped increase attendance. Which of these was a change in demand and which was a change in the quantity demanded in the market for theme parks?
+The decrease in attendance caused by the weak economy was a decrease in demand?fewer people were going to theme parks in a recession year than in prior years for any given ticket price. The demand curve for theme park visits thus shifted to the left. When Disney lowered its admission price, it hoped to entice more people to spend their money on a trip to its California Adventure park instead of on other goods. This is an increase in the quantity demanded?the park management anticipated more attendance at a lower price. This was a movement along the demand curve for theme park visits.
+Whereas demand refers to the behavior of consumers, supply refers to the behavior of firms. The term supply?whether it is the supply of tickets or the supply of computers?has a specific meaning for economists. Supply is a relationship between two variables: (1) the price of a particular good?and (2)?the quantity of the good that firms are willing to sell at that price, all other things being the same. We call the first variable the price and the second variable the quantity supplied.
+Supply can be represented by a numerical table or by a graph. An example of the quantity supplied (in millions of bicycles) in the entire market by bicycle-producing firms at each price is shown in Table 3.2. For example, at a price of $180, the quantity supplied is 7 million bicycles. Observe that as the price increases, the quantity supplied increases, and that as the price decreases, the quantity supplied decreases. For example, if the price rises from $180 to $200, the quantity supplied increases from 7 to 9 million bicycles. The relationship between price and quantity supplied in Table 3.2?is called a supply schedule. The relationship shows price and quantity supplied moving in the same direction, and this is an example of the law of supply. The law of supply says that the higher the price, the higher the quantity supplied; and the lower the price, the lower the quantity supplied. In other words, the law of supply says that the price and the quantity supplied are positively related, all other things being equal.
+The Supply Curve
+We can represent the supply schedule in Table 3.2?graphically by plotting the price and quantity supplied on a graph, as shown in Figure 3.4. The scales of each axis in Figure 3.4?are exactly the same as those in Figure 3.1, except that Figure 3.4?shows the quantity supplied, whereas Figure 3.1?shows the quantity demanded. Each pair of numbers in Table 3.2?is plotted as a point in Figure 3.4. The resulting curve showing all the combinations of prices and quantities supplied is the supply curve. Note that the curve slopes upward: At a price of $280, the quantity supplied is high?16 million bicycles. If the price were $160 a bicycle, then firms would be willing to sell only 4 million bicycles.
+Why does the supply curve slope upward? Imagine yourself running a firm that produces and sells bicycles. If the price of the bicycles goes up from $180 to $280, then you can earn $100 more for each bicycle you produce and sell. Given your production costs, if you earn more from each bicycle, you will have a greater incentive to produce and sell more bicycles. If producing more bicycles increases the costs of producing each bicycle, perhaps because you must pay the bike assembly workers a higher wage for working overtime, the higher price will give you the incentive to incur these costs. Other bicycle firms will be thinking the same way. Thus, firms are willing to sell more bicycles as the price rises. Conversely, the incentive for firms to sell bicycles will decline as the price falls. Basically, that is why a positive relationship exists between price and quantity supplied.
+When formulating economic policy, it is important to remember this supply relationship. When the price of a good increases, it leads to an increase in the quantity supplied. If U.S. agricultural policy results in the U.S. government offering to pay farmers a higher price for their corn, then the farmers will respond by increasing their production of corn. If coffee prices on the world market collapse, some coffee farmers in developing countries will switch to producing other crops instead of coffee.
+Table 3.2 Supply Schedule for Bicycles (millions of bicycles per year)
+
+Price
+Quantity Supplied
+$140
+1
+$160
+4
+$180
+7
+$200
+9
+$220
+11
+$240
+13
+$260
+15
+$280
+16
+$300
+17Shifts in Supply
+The supply curve is a relationship between price and the quantity supplied drawn on the assumption that all other things are held constant. If any one of these other things changes, then the supply curve shifts. For example, suppose a new machine is invented that makes it possible to produce bicycle frames at less cost; then firms would have more incentive at any given price to produce and sell more bicycles. Supply would increase, and the supply curve would shift to the right.
+Figure 3.4 The Supply Curve
+
+The supply curve shows that the price and the quantity supplied by firms in the market are positively related. The curve slopes up. For each price on the vertical axis, the supply curve shows the quantity that firms are willing to sell along the horizontal axis. The points along the supply curve for bicycles match the pairs of numbers in Table 3.2.
+Figure 3.5?shows that the supply curve for bicycles would shift to the right because of a new cost-reducing machine. The supply curve would shift to the left if supply decreased. Supply would decrease, for example, if bicycle-producing firms suddenly found that their existing machines would break down unless they were oiled with an expensive lubricant each time a bicycle was produced. This would raise costs, lower supply, and shift the supply curve to the left.
+Many things can cause the supply curve to shift. Most of these can be categorized by the source of the change in supply: technology, weather conditions, the price of inputs used in production, the number of firms in the market, expectations of future prices, and government taxes, subsidies, and regulations. Let us briefly consider the sources of shifts in supply.
+Technology
+Anything that changes the amount a firm can produce with a given amount of inputs to production can be considered a change in technology. The Harbour Report, a study that examines the number of labor hours needed to produce an automobile, calculated that in 2005, General Motors needed 34 hours per vehicle, while Toyota needed only 28 hours per vehicle. Suppose an improvement in technology enabled General Motors to reduce the time it took to produce a car by six hours per vehicle. This improvement in technology would correspond to an increase in supply, a shift in the supply curve to the right. Another way of viewing an increase in supply is that producers are willing to sell any given quantity at a lower price than before. This makes sense, because production costs are lower with the improvement in technology.
+Figure 3.5 A Shift in the Supply Curve
+
+The supply curve is a relationship between the quantity supplied of a good and the price of the good, all other things being equal. A change in one of these other things (other than the good?s price) will shift the supply curve, as shown in the graph. In this case, the supply of bicycles increases; the supply curve for bicycles shifts to the right.
+Weather Conditions
+Droughts, earthquakes, and hurricanes also affect how much of certain types of goods can be produced with given inputs. A drought can reduce the amount of wheat that can be produced on a farm in the Midwest. The floods that devastated some regions in Australia in early 2011 resulted in a fall in cotton supplies on the world market, for which Australia is a leading producer and exporter. Hurricanes Katrina and Rita disrupted oil drilling and refining activities in Texas and Louisiana. Because such events change the amount that can be produced with a given amount of inputs, they are similar to changes in technology. In the examples just given, the supply curve shifted to the left, although you could have favorable weather conditions that would shift the supply curve for a particular good to the right.
+The Price of Inputs Used in Production
+If the prices of the inputs to production?raw materials, labor, and capital?increase, then it becomes more costly to produce goods, and firms will produce less at any given price. In this case, the supply curve will shift to the left. When the U.S. government imposed trade restrictions that caused the price of imported steel to rise in 2002, firms that used imported steel to produce household appliances were unwilling to produce the same quantity of appliances at existing price levels. So an increase in production costs causes the supply curve to shift to the left, and a decrease in production costs causes the supply curve to shift to the right.
+The Number of Firms in the Market
+Remember that the supply curve refers to all the firms producing the product. If the number of firms increases, then more goods will be produced at each price: supply increases, and the supply curve shifts to the right. A decline in the number of firms, on the other hand, would shift the supply curve to the left. For example, if a country removes barriers that prevent foreign car manufacturers from selling cars to the domestic market, then the number of firms producing cars for that country?s domestic market will increase, and the supply curve for cars in that economy will shift to the right.
+Expectations of Future Prices
+If firms expect the price of the good they produce to rise in the future, then they will hold off selling at least part of their production until the price rises. For example, farmers in the United States who anticipate an increase in wheat prices because of political turbulence in the Russian Federation may decide to store more wheat in silos and sell it later, after the price rises. Thus, expectations of future price increases tend to reduce supply. Conversely, expectations of future price decreases tend to increase supply.
+Government Taxes, Subsidies, and Regulations
+The government has the ability to affect the supply of particular goods produced by firms. For example, the government imposes taxes on firms to pay for such government services as education, police, and national defense. These taxes increase firms? costs and reduce supply. The supply curve shifts to the left when a tax on what firms sell in the market increases.
+The government also makes payments?subsidies?to firms to encourage those firms to produce certain goods. Such subsidies have the opposite effect of taxes on supply. An increase in subsidies reduces firms? costs and increases the supply. If the U.S. government provided subsidies for corn production to encourage the use of ethanol, an alternative fuel for cars that is produced from corn, this would increase the production of corn. On the other hand, when the U.S. government imposes a tax on cigarettes, the supply of cigarettes will decrease.
+Governments also regulate firms. In some cases, such regulations can change the firms? costs of production or their ability to produce goods and thereby affect supply. For example, if a city government decides that only vendors who successfully pass a health and sanitation inspection are allowed to sell food from street carts, the supply curve for street-vendor food will shift to the left.
+Movements Along versus Shifts of the Supply Curve
+As with the demand curve, it is important that you understand how to distinguish between shifts of the supply curve and movements along the supply curve. This distinction is illustrated in Figure 3.6.
+A movement along the supply curve occurs when the quantity supplied changes as a result of a change in the price of the good. For example, if a copper mine in Zambia increases its production because the price of copper has increased on the world market, then that indicates a movement along the supply curve. In our bicycle example, an increase in the price of bicycles from $200 to $220 would increase the quantity supplied?from 9 million bicycles to 11 million bicycles. This can be shown as a movement along the supply curve for bicycles from point D to point F. Conversely, if the price of a bicycle were to fall from $200 to $180, then the quantity supplied would decrease to 7 million bicycles. This can be shown as movement from point D to point E in Figure 3.6. Economists refer to a movement along the supply curve as a change in the quantity supplied.
+Figure 3.6 Shifts of versus Movements Along the Supply Curve
+
+A shift of the supply curve occurs when a change in something (other than the price) affects the amount of a good that firms are willing to supply. An increase in supply is a shift to the right of the supply curve. A decrease in supply is a shift to the left of the supply curve. A movement along the supply curve occurs when the price of the good changes, causing the quantity supplied by firms to change?for example, from point D to point E or F.
+A shift of the supply curve, on the other hand, occurs if a change is caused by any source except the price. An unexpected winter freeze in California will mean that farmers will be able to produce fewer oranges at any given price. This means that the supply curve of oranges will shift to the left. When the supply curve shifts, economists call that a change in supply.
+You should be able to tell whether a change in something causes (1) a change in supply or (2) a change in the quantity supplied; or, equivalently, if a change causes (1) a shift in the supply curve or (2) a movement along the supply curve. The following example will test your ability to distinguish between movement along a supply curve and a shift in the supply curve. Suppose that U.S. agricultural policy guarantees farmers a specific price on certain crops. An economist suggested that the government instead should pay farmers to not plant some of their fields. Which policy is describing a change in supply and which is describing a change in the quantity supplied in the market for corn?
+A policy that pays farmers to leave cornfields unplanted describes a decrease in supply. The amount of corn supplied will be lower at any price. When the U.S. government guarantees the price of corn, this describes an increase in the quantity supplied?more corn will be grown in anticipation of the higher price. The increase in price leading to an increase in quantity supplied corresponds to movement along the supply curve.
+
+demand model. Consumers who want to buy goods and firms that want to sell goods interact in a market. When consumers and firms interact, a price is determined at which the transaction occurs. Recall that a market does not need to be located at one place; the U.S. bicycle market consists of all the bicycle firms that sell bicycles and all the consumers who buy bicycles.
+Fascinatingly, no single person or firm determines the price in the market. Instead, the market determines the price. As buyers and sellers interact, prices may go up for a while and then go down. Alfred Marshall, the economist who did the most to develop the supply and demand model in the late nineteenth century, called this process the ?higgling and bargaining? of the market. The assumption underlying the supply and demand model is that, in the give and take of the marketplace, prices adjust until they settle down at a level at which the quantity supplied by firms equals the quantity demanded by consumers. Let?s see how.?
+Determination of the Market Price
+To determine the market price, we combine the demand relationship with the supply relationship. We can do this using either a table or a diagram. First consider Table 3.3, which combines the demand schedule from Table 3.1?with the supply schedule from Table 3.2. The price is in the first column, the quantity demanded by consumers is in the second column, and the quantity supplied by firms is in the third column. Observe that the quantity that consumers are willing to buy is shown to decline with the price, whereas the quantity that firms are willing to sell is shown to increase with the price.
+Finding the Market Price
+Pick a price in Table 3.3, any price. Suppose the price you choose is $160. Then the quantity demanded by consumers (14 million bicycles) is greater than the quantity supplied by firms (4 million bicycles). In other words, there is a shortage of 14 - 4 = 10 million bicycles. A shortage (excess demand) is a situation in which the quantity demanded is greater than the quantity supplied. With a shortage of bicycles, buyers who really need a bicycle will start to offer to pay more to acquire a bicycle, while firms that are faced with an abundance of potential customers wanting to buy their bicycles will begin to charge higher prices. Thus, $160 cannot last as the market price. Observe that as the price rises above $160, the quantity demanded falls and the quantity supplied rises. Thus, as the price rises, the shortage begins to decrease. Suppose the price increases to $180. At that price, the quantity demanded falls to 11 million bicycles and the quantity supplied rises to 7 million bicycles. A shortage still exists and the price still will rise, but the shortage is now much less, at 11 ? 7 = 4 million bicycles. The shortage will disappear only when the price rises to $200, as shown in Table 3.3.
+Figure 3.7 Overview of Supply and Demand
+
+Table 3.3 Finding the Market Equilibrium
+
+Price
+Quantity Demanded
+Quantity Supplied
+Shortage, Surplus, or Equilibrium
+Price Rises or Falls
+$140
+18
+1
+Shortage = 17
+Price rises
+$160
+14
+4
+Shortage = 10
+Price rises
+$180
+11
+7
+Shortage = 4
+Price rises
+$200
+9*
+9*
+Equilibrium*
+No change*
+$220
+7
+11
+Surplus = 4
+Price falls
+$240
+5
+13
+Surplus = 8
+Price falls
+$260
+3
+15
+Surplus = 12
+Price falls
+$280
+2
+16
+Surplus = 14
+Price falls
+$300
+1
+17
+Surplus = 16
+Price fallsSuppose instead that you had picked a price above $200, let?s say $260. Then the quantity demanded by consumers (3 million bicycles) is less than the quantity supplied by firms (15 million bicycles). In other words, there is a surplus of 12 million bicycles. A surplus (excess supply)?is a situation in which the quantity supplied is greater than the quantity demanded. With a surplus of bicycles, buyers who really need a bicycle have an abundance of sellers who are eager to sell them a bicycle, while firms have to compete with one another to entice buyers for their products. Therefore, the price of bicycles will fall: Firms that are willing to sell bicycles for less than $260 will offer to sell to consumers at lower prices. Thus, $260 cannot be the market price either. Observe that as the price falls below $260, the quantity demanded rises and the quantity supplied falls. Thus, the surplus decreases. If you choose any price above $200, the same thing will happen: A surplus will exist, and the price will fall. The surplus disappears only when the price falls to $200.
+Thus, we have shown that for any price below $200, a shortage exists, and the price rises, while for any price above $200, a surplus exists, and the price falls. What if the market price is $200? Then the quantity supplied equals the quantity demanded; there is not a shortage or a surplus, and there is no reason for the price to rise or fall. This price of $200 is called the equilibrium price because, at this price, the quantity supplied equals the quantity demanded, and the price has no tendency to change. There is no other price for which quantity supplied equals quantity demanded. If you look at all the other prices, you will see either a shortage or a surplus, and thus the price has a tendency to either rise or fall.
+The quantity bought and sold at the equilibrium price is 9 million bicycles. This is the equilibrium quantity. When the price equals the equilibrium price and the quantity bought and sold equals the equilibrium quantity, economists call this a market equilibrium.
+Our discussion of the determination of the equilibrium price shows how the market price coordinates the buying and selling decisions of many firms and consumers. We see that the price serves a rationing function. When a shortage exists, a higher price reduces the quantity demanded and increases the quantity supplied to eliminate the shortage. Similarly, when a surplus exists, a lower price increases the quantity demanded and decreases the quantity supplied to eliminate the surplus. Thus, both shortages and surpluses are eliminated by the forces of supply and demand.
+Two Predictions
+By combining supply and demand, we have completed the supply and demand model. The model can be applied to many markets, not just the example of the bicycle market. One prediction of the supply and demand model is that the equilibrium price in the market will be the price for which the quantity supplied equals the quantity demanded. Thus, the model provides an answer to the question of what determines the price in the market. Another prediction of the model is that the equilibrium quantity bought and sold in the market is the quantity for which the quantity supplied equals the quantity demanded.
+Finding the Equilibrium with a Supply and Demand Diagram
+The equilibrium price and quantity in a market can also be found with the help of a graph. Figure 3.8?combines the demand curve from Figure 3.1?and the supply curve from Figure 3.4?in the same diagram. Observe that the downward-sloping demand curve intersects the upward-sloping supply curve at a single point. At that point of intersection, the quantity supplied equals the quantity demanded. Hence, the equilibrium price is at the intersection of the supply curve and the demand curve. The equilibrium price of $200 is shown in Figure 3.8. At that price, the quantity demanded is 9 million bicycles, and the quantity supplied is 9 million bicycles. This is the equilibrium quantity.
+Figure 3.8 Equilibrium Price and Equilibrium Quantity
+
+When buyers and sellers interact in the market, the equilibrium price is at the point of intersection of the supply curve and the demand curve. At this point, the quantity supplied equals the quantity demanded. The equilibrium quantity also is determined at that point. At a higher price, the quantity demanded will be less than the quantity supplied; a surplus will exist. At a lower price, the quantity demanded will be greater than the quantity supplied; a shortage will exist.
+If the price were lower than this equilibrium price, say, $160, then the quantity demanded would be greater than the quantity supplied. A shortage would exist, and demand would pressure the price to increase, as shown in the graph. The increase in gasoline prices in 2007 and the early part of 2008 led to an increase in demand for hybrid automobiles. With a shortage of hybrid vehicles and long waiting lists, some automobile sellers increased the price of the hybrids.
+On the other hand, if the price were above the equilibrium price, say, $260, then the quantity supplied would be greater than the quantity demanded. A surplus would exist, and excess quantity would pressure the price to fall. After September 11, 2001, a large number of vacationers canceled vacation plans that involved air travel. Caribbean hotels, with a surplus of vacant hotel rooms following this decrease in demand, began to offer big discounts.
+Thus, the market price will tend to move toward the equilibrium price at the intersection of the supply curve and the demand curve. We can calculate exactly what the equilibrium price is in Figure 3.8?by drawing a line over to the vertical axis. And we can calculate the equilibrium quantity by drawing a line down to the horizontal axis.
+Market Outcomes When Supply or Demand Changes
+Now that you know how to find the equilibrium price and quantity in a market, we can use the supply and demand model to analyze the impact of factors that change supply or demand on equilibrium price and quantity. We first consider a change in demand and then a change in supply.
+Effects of a Change in Demand
+Figure 3.9?shows the effects of a shift in the demand curve for bicycles. Suppose that a shift occurs because of a fitness craze that increases the demand for bicycles. The demand curve shifts to the right, as shown in Figure 3.9(a). The demand curve before the shift and the demand curve after the shift are labeled the ?old demand curve? and the ?new demand curve,? respectively.
+If you look at the graph, you can see that something must happen to the equilibrium price when the demand curve shifts. The equilibrium price is determined at the intersection of the supply curve and the demand curve. With the new demand curve, there is a new intersection and, therefore, a new equilibrium price. The equilibrium price is no longer $200 in Figure 3.9(a); it is up to $220 per bicycle. Thus, the supply and demand model predicts that the price in the market will rise if demand increases. Note also that the equilibrium quantity of bicycles changes. The quantity of bicycles sold and bought has increased from 9 million to 11 million. Thus, the equilibrium quantity has increased along with the equilibrium price. The supply and demand model predicts that an increase in demand will raise both the price and the quantity sold in the market.
+We can use the same method to find out what happens if demand decreases, as shown in Figure 3.9(b). Suppose that the elimination of dedicated bicycle lanes on roads shifts the demand curve for bicycles to the left. At the new intersection of the supply and demand curves, the equilibrium price is lower, and the quantity sold also is lower. Thus, the supply and demand model predicts that a decrease in demand will both lower the price and lower the quantity sold in the market.
+In these examples, when the demand curve shifts, it leads to a movement along the supply curve. First, the demand curve shifts to the right or to the left. Then there is a movement along the supply curve because the change in the price affects the quantity of bicycles that firms will sell.
+Figure 3.9 Effects of a Shift in Demand
+
+When demand increases, as in graph (a), the demand curve shifts to the right. The equilibrium price rises, and the equilibrium quantity also rises.?When demand decreases, as in graph (b), the demand curve shifts to the left. The equilibrium price falls, and the equilibrium quantity also falls.
+Figure 3.10 Effects of a Shift in Supply
+
+When supply increases, as in graph (a), the supply curve shifts to the right, the equilibrium price falls, and the equilibrium quantity rises. When supply decreases, as in graph (b), the supply curve shifts to the left, the equilibrium price rises, and the equilibrium quantity falls.
+Effects of a Change in Supply
+Figure 3.10?shows what happens when a change in the market shifts the supply curve. Suppose a new technology reduces the cost of producing bicycles, resulting in the supply curve for bicycles shifting to the right. Figure 3.10(a)?shows that a new equilibrium price is lower than the old equilibrium price. In addition, the equilibrium quantity rises. Thus, the supply and demand model predicts that an increase in the supply of bicycles will lower the price and raise the quantity of bicycles sold.
+Suppose instead that an increase in the cost of bicycle tires increases the cost of producing bicycles, resulting in the supply curve for bicycles shifting to the left. Figure 3.10(b)?shows that the equilibrium price rises, and the equilibrium quantity falls. Thus, the model predicts that a decrease in the supply of bicycles will raise the price of bicycles and lower the quantity of bicycles sold.
+Table 3.4?summarizes the results of this analysis of shifts in the supply and demand curves.
+Table 3.4 Effects of Shifts in Demand and Supply Curves
+
+Shift
+Effect on Equilibrium Price
+Effect on Equilibrium Quantity
+Increase in demand
+Up
+Up
+Decrease in demand
+Down
+Down
+Increase in supply
+Down
+Up
+Decrease in supply
+Up
+DownWhen Both Curves Shift
+The supply and demand model is easiest to use when you are analyzing a factor that shifts either demand or supply, but not both. In reality, however, it is possible for something or several different things to simultaneously shift both supply and demand. To predict whether the price or the quantity rises or falls in such cases, we need to know whether demand or supply shifts by a larger amount.?
