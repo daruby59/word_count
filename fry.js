@@ -130,13 +130,20 @@ function draw() {
 			gS2.fillStyle = "rgb(255,255,255)";
 			gS2.fillRect(-461+(syllable*5),349-(sentence*10),2,2);
 			//
-			gS2.font = "14px Arial";
+			gS2.fillStyle = "rgb(255,255,255)";
+			gS2.font = "bold 12px Arial";
+			gS2.fillText("long words", 330,180);
+			gS2.font = "bold 10px Arial";
+			gS2.fillText("long",83,333);
+			gS2.fillText("sentences",83,345);
+			//
+			gS2.font = "bold 14px Arial";
 			gS2.fillStyle = "rgb(128,0,0)";
 			gS2.fillText("Fry Readability Index",200,15);
 			// gS2.fillText("Average Number of Syllables per 100 words: "+syllable,100,40);
-			// gS2.fillText("Average Number of Sentences per 100 words: "+sentence,100,55);
+			// gS2.fillText("Average Number of Sentences per 100 words: "+sentence,90,55);
 			// gS2.fillText("FKRA Reading Age: ",100,70);
 			gS2.font = "bold 12px Arial";
 			gS2.fillText("Average Number of Syllables per 100 words",100,390);
-			gS2.fillText("Average Number of Sentences per 100 words",60,92);
+			gS2.fillText("Average Number of Sentences per 100 words",50,92);
 	}  
